@@ -8,7 +8,7 @@
   	<java.version>1.8</java.version>
 	<pi.version>3.9.0</pi.version>
 	<mongodb.version>3.4.2</mongodb.version>
-	<swagger.version>2.5.0</swagger.version>
+	<swagger.version>2.10.0</swagger.version>
   </properties>
   
   <parent>
